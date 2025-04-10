@@ -1,3 +1,5 @@
+![chatGPT]([assets/image.png](https://github.com/kawinduwijewardhane/chatGPT-System-Prompts/blob/main/chatGPT_.jpeg) "chatGPT")
+
 # ChatGPT System Prompts
 
 This repository contains a curated list of the best system prompts for OpenAI's ChatGPT, enabling developers and users to customize their AI's behavior and interaction style.
