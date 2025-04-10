@@ -1,4 +1,4 @@
-![chatGPT]([assets/image.png](./chatGPT_.jpeg) "chatGPT")
+![chatGPT]([assets/image.png](https://raw.githubusercontent.com/kawinduwijewardhane/chatGPT-System-Prompts/refs/heads/main/chatGPT_.jpeg) "chatGPT")
 
 # ChatGPT System Prompts
 
